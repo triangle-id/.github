@@ -17,7 +17,7 @@ Repos are coming soon. The project is in early build phase.
 | sdk | Forked from Credo-TS. Handles DID resolution, SD-JWT VC issuance, and credential verification. |
 | dashboard | Employer-facing web app for issuing employment credentials. |
 | widget | Embeddable JS widget for employment platforms to verify credentials. |
-| web | Landing page at [triangle.id](https://triangle.id). |
+| website | Landing page at [triangle.id](https://triangle.id). |
 
 ## Tech stack
 
